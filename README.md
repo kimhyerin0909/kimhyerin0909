@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerin&&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kimhyerin0909&show_icons=true)
 <h3 align="center"><b>🛠 My Tech 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
