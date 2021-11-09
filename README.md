@@ -6,4 +6,4 @@
 
 <p>📱SNS📱</p>
 
-[INSTA](https://www.instagram.com/k99hyerin/ "인스타그램으로 이동")
+![Instagram](https://img.shields.io/badge/<k99hyerin>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
