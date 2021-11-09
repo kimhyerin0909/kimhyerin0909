@@ -1,4 +1,6 @@
-<p style="text-align : center;">💻My Tech💻</p>
-<p style="text-align : center;">🔴Handy</p>
-<p style="text-align : center;">🟠Usable</p>
-<p style="text-align : center;">🟡</p>
+<p>💻My Tech💻</p>
+<p>🔴Handy</p>
+<p>🟠Usable</p>
+<p>🟡</p>
+<p>SNS</p>
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
