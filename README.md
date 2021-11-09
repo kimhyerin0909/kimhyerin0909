@@ -1,4 +1,4 @@
-<p>💻My Tech💻</p>
-<p>🔴Handy</p>
-<p>🟠Usable</p>
-<p>🟡</p>
+<p style="text-align : center;">💻My Tech💻</p>
+<p style="text-align : center;">🔴Handy</p>
+<p style="text-align : center;">🟠Usable</p>
+<p style="text-align : center;">🟡</p>
