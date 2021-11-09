@@ -23,4 +23,5 @@
 
 <p>🟡SNS🟡</p>
 
-![Instagram](https://img.shields.io/badge/<k99hyerin>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://www.instagram.com/k99hyerin">
+<img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k99hyerin?"  alt="instagram" /> </a>
