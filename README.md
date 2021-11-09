@@ -1,4 +1,4 @@
-<p>🔴My Tech</p>
+<p>🔴 My Tech</p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -14,14 +14,14 @@
 
 <hr>
 
-<p>🟠Design</p>
+<p>🟠 Design</p>
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <hr>
 
-<p>🟡SNS</p>
+<p>🟡 SNS</p>
 
 <a href="https://www.instagram.com/k99hyerin">
 <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/k99hyerin?"  alt="instagram" /> </a>
