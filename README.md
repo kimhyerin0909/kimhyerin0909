@@ -1,1 +1,1 @@
-<h1>Hi! I'm hyerin🖐️</h1>
+<a href="https://k99hyerin.tistory.com/">Blog</a>
