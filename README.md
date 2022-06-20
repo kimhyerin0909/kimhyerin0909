@@ -1,4 +1,4 @@
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyerin0909&theme=graywhite&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyerin0909&theme=graywhite&show_icons=true)
 
 <div>
   <h2>My Main Force</h2>
