@@ -1,1 +1,7 @@
-![내 모토](https://user-images.githubusercontent.com/80014467/195220744-90aab300-20e9-4e27-8506-e4afdebf7f5c.jpeg)
+소통하고 싶은 프론트엔드 개발자 <b>김혜린</b>입니다.
+
+<a href="https://kimhyerin.notion.site/Hyerin-Kim-c9cc2abc9f814dabb717d7b651bf029a">🙋‍♀️ Portfolio</a> <a href="https://k99hyerin.tistory.com/">👩‍💻 Blog</a> <a href="https://www.instagram.com/k99hyerin/">💁‍♀️ Instagram</a>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/80014467/202209121-3c504671-108a-4965-9897-39319ad4e0ac.png" width=50% height=50% />
