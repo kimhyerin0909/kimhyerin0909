@@ -1,3 +1,1 @@
-### 안녕하세요. 프론트엔드 개발자 <b>김혜린</b>입니다.
-
-UI/UX에 관심이 많으며, React와 Typescript를 사용해 웹 프론트엔드를 개발하는 것을 좋아합니다.
+![image](https://github.com/kimhyerin0909/flutterdy/assets/80014467/f4290910-9771-4231-a47b-fd4c795fa6a5)
